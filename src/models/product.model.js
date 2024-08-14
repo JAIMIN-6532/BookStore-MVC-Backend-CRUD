@@ -63,4 +63,4 @@ var products = [
     39.99,
     'https://m.media-amazon.com/images/I/31PBdo581fL._SX317_BO1,204,203,200_.jpg'
   ),
-];
+];  
